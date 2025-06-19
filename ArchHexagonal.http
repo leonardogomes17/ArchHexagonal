@@ -1,0 +1,6 @@
+@ArchHexagonal_HostAddress = http://localhost:5078
+
+GET {{ArchHexagonal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
